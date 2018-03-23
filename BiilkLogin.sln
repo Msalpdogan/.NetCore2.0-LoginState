@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiilkLogin", "BiilkLogin\BiilkLogin.csproj", "{AD2D88EE-8C19-4ACE-8679-090F51668FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2D88EE-8C19-4ACE-8679-090F51668FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2D88EE-8C19-4ACE-8679-090F51668FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2D88EE-8C19-4ACE-8679-090F51668FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2D88EE-8C19-4ACE-8679-090F51668FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8DE260-7290-4F2A-9B13-9F36CCE2178B}
+	EndGlobalSection
+EndGlobal

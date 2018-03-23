@@ -1,0 +1,11 @@
+c:\users\merv\Source\Repos\BiilkLogin\BiilkLogin\bin\Debug\netcoreapp2.0\BiilkLogin.deps.json
+c:\users\merv\Source\Repos\BiilkLogin\BiilkLogin\bin\Debug\netcoreapp2.0\BiilkLogin.runtimeconfig.json
+c:\users\merv\Source\Repos\BiilkLogin\BiilkLogin\bin\Debug\netcoreapp2.0\BiilkLogin.runtimeconfig.dev.json
+c:\users\merv\Source\Repos\BiilkLogin\BiilkLogin\bin\Debug\netcoreapp2.0\BiilkLogin.dll
+c:\users\merv\Source\Repos\BiilkLogin\BiilkLogin\obj\Debug\netcoreapp2.0\BiilkLogin.csproj.CoreCompileInputs.cache
+c:\users\merv\Source\Repos\BiilkLogin\BiilkLogin\obj\Debug\netcoreapp2.0\BiilkLogin.AssemblyInfoInputs.cache
+c:\users\merv\Source\Repos\BiilkLogin\BiilkLogin\obj\Debug\netcoreapp2.0\BiilkLogin.AssemblyInfo.cs
+c:\users\merv\Source\Repos\BiilkLogin\BiilkLogin\bin\Debug\netcoreapp2.0\BiilkLogin.pdb
+c:\users\merv\Source\Repos\BiilkLogin\BiilkLogin\obj\Debug\netcoreapp2.0\BiilkLogin.dll
+c:\users\merv\Source\Repos\BiilkLogin\BiilkLogin\obj\Debug\netcoreapp2.0\BiilkLogin.pdb
+C:\Users\MERV\Source\Repos\BiilkLogin\BiilkLogin\obj\Debug\netcoreapp2.0\BiilkLogin.csprojResolveAssemblyReference.cache
